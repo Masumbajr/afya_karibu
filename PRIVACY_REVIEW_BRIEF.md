@@ -1,4 +1,4 @@
-# Afya Karibu: privacy policy review brief
+# Hospitali Online: privacy policy review brief
 
 **Purpose:** a short brief to send to a lawyer, with the questions to settle before the app goes on Google Play.
 

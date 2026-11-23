@@ -1,12 +1,12 @@
-# Afya Karibu Privacy Policy
+# Hospitali Online Privacy Policy
 
 **Effective date:** [DATE OF PUBLICATION]
 **Published by:** DayBridge Enterprises Ltd ("we", "us"), Ilala, Dar es Salaam, Tanzania
 **Contact:** masumbasunday9@gmail.com, +255 755 300 033, +255 718 405 302
 
-Afya Karibu is a free Android app that helps you find health facilities in Tanzania. It has no accounts, no advertising and no analytics. Your location stays on your phone. This policy explains what the app does with information.
+Hospitali Online is a free Android app that helps you find health facilities in Tanzania. It has no accounts, no advertising and no analytics. Your location stays on your phone. This policy explains what the app does with information.
 
-> **Not for emergencies.** Afya Karibu is a directory. It is not medical advice and it is not an emergency service. In an emergency, call your local emergency services or go to the nearest health facility straight away. Do not wait for a reply from us or from the app.
+> **Not for emergencies.** Hospitali Online is a directory. It is not medical advice and it is not an emergency service. In an emergency, call your local emergency services or go to the nearest health facility straight away. Do not wait for a reply from us or from the app.
 
 ## 1. What stays on your phone
 
@@ -45,7 +45,7 @@ Submissions are sent to Firebase over an encrypted connection. We limit who can 
 
 ## 8. Children
 
-Afya Karibu is not aimed at children. We do not knowingly collect personal information from anyone under 18. If you think a child has sent us personal information, contact us and we will delete it.
+Hospitali Online is not aimed at children. We do not knowingly collect personal information from anyone under 18. If you think a child has sent us personal information, contact us and we will delete it.
 
 ## 9. Accuracy of the directory
 

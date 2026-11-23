@@ -1,4 +1,4 @@
-# Afya Karibu: Google Play Data safety answers
+# Hospitali Online: Google Play Data safety answers
 
 **Where:** Play Console → Policy and programs → App content → Data safety.
 

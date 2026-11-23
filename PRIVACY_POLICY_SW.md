@@ -1,12 +1,12 @@
-# Sera ya Faragha ya Afya Karibu
+# Sera ya Faragha ya Hospitali Online
 
 **Tarehe ya kuanza kutumika:** [TAREHE YA KUCHAPISHWA]
 **Imechapishwa na:** DayBridge Enterprises Ltd ("sisi"), Ilala, Dar es Salaam, Tanzania
 **Mawasiliano:** masumbasunday9@gmail.com, +255 755 300 033, +255 718 405 302
 
-Afya Karibu ni programu ya Android ya bure inayokusaidia kupata vituo vya afya nchini Tanzania. Haina akaunti, haina matangazo ya biashara wala uchanganuzi wa matumizi. Mahali ulipo hubaki kwenye simu yako. Sera hii inaeleza programu inafanya nini na taarifa.
+Hospitali Online ni programu ya Android ya bure inayokusaidia kupata vituo vya afya nchini Tanzania. Haina akaunti, haina matangazo ya biashara wala uchanganuzi wa matumizi. Mahali ulipo hubaki kwenye simu yako. Sera hii inaeleza programu inafanya nini na taarifa.
 
-> **Si kwa ajili ya dharura.** Afya Karibu ni orodha ya vituo tu. Si ushauri wa kitabibu wala huduma ya dharura. Katika dharura, piga simu kwa huduma za dharura za eneo lako au nenda mara moja kwenye kituo cha afya kilicho karibu nawe. Usisubiri jibu kutoka kwetu wala kutoka kwenye programu.
+> **Si kwa ajili ya dharura.** Hospitali Online ni orodha ya vituo tu. Si ushauri wa kitabibu wala huduma ya dharura. Katika dharura, piga simu kwa huduma za dharura za eneo lako au nenda mara moja kwenye kituo cha afya kilicho karibu nawe. Usisubiri jibu kutoka kwetu wala kutoka kwenye programu.
 
 ## 1. Kinachobaki kwenye simu yako
 
@@ -45,7 +45,7 @@ Mapendekezo hutumwa kwa Firebase kupitia muunganisho uliosimbwa kwa njia fiche. 
 
 ## 8. Watoto
 
-Afya Karibu haikulengwa kwa watoto. Hatukusanyi kwa kujua taarifa binafsi kutoka kwa mtu yeyote aliye chini ya umri wa miaka 18. Ukidhani mtoto ametutumia taarifa binafsi, wasiliana nasi nasi tutazifuta.
+Hospitali Online haikulengwa kwa watoto. Hatukusanyi kwa kujua taarifa binafsi kutoka kwa mtu yeyote aliye chini ya umri wa miaka 18. Ukidhani mtoto ametutumia taarifa binafsi, wasiliana nasi nasi tutazifuta.
 
 ## 9. Usahihi wa orodha ya vituo
 
