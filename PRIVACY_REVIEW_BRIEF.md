@@ -33,7 +33,7 @@
 5. **Third parties.** Is naming OpenStreetMap (IP address) and Google/Firebase enough disclosure?
 6. **Children.** What should the policy say about users under 18?
 7. **Disclaimers.** Wording for the emergency warning and for the accuracy of facility details (hours and services may be out of date), and how far liability can be limited.
-8. **Language.** Do we need a Swahili version of the policy and the in-app notice, as well as English?
+8. **Language.** A Swahili translation now exists in `PRIVACY_POLICY_SW.md`. Please review it, including the official Swahili titles of the Act and the Commission, and say which version prevails if the two differ.
 9. **Breach.** What are the notification duties and timelines, and who is the named contact?
 
 ## 4. Google Play requirements to keep in mind
