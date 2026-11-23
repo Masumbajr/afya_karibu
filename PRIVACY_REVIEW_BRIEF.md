@@ -9,8 +9,9 @@
 - Android app (built with Flutter) that works offline.
 - Directory of about 5,651 health facilities in Tanzania, with search and a map.
 - Shows a prominent warning that the app is not a substitute for emergency services.
-- Publisher: [legal name of person or company]. Contact: [email, phone, postal address].
+- Publisher: DayBridge Enterprises Ltd, Ilala, Dar es Salaam, Tanzania. Contact person: Sunday Arthur Masumba, masumbasunday9@gmail.com, +255 755 300 033, +255 718 405 302.
 - Planned release: Google Play, [Tanzania only / wider].
+- The policy text to review is in `PRIVACY_POLICY.md` (one placeholder for the effective date and one for the data source remain).
 
 ## 2. What the draft policy says about data
 
@@ -20,7 +21,7 @@
 | Device location | Used on the phone for "nearby" results. Never leaves the phone. | Confirm in code |
 | Map tiles | Loaded from OpenStreetMap, so OSM can see the device's IP address and the area requested | Which tile provider ships in version 1 |
 | Corrections and new-facility submissions | Sent to Firebase (Google) | Does this feature ship in version 1? What does a submission contain? Is any name or contact detail collected? |
-| Moderation | A named moderator reviews submissions | [name], not yet appointed |
+| Moderation | A moderator at DayBridge Enterprises Ltd reviews every submission before publishing | Who the moderator is in practice. Retention chosen: contact details deleted within 90 days of a submission being resolved. |
 | Facility data | Registry-style facility list bundled in the app | Source, licence and permission to use [source] |
 
 ## 3. Questions for the lawyer
@@ -44,11 +45,11 @@
 
 ## 5. Still to fill in
 
-- [ ] Publisher legal name
-- [ ] Public contact email, phone or address
-- [ ] Effective date
-- [ ] Moderator name (or remove the submissions feature from version 1)
-- [ ] Source and licence of the facility data
+- [x] Publisher and contact details (DayBridge Enterprises Ltd)
+- [x] Submissions feature kept in version 1
+- [ ] Effective date (set on the day of publication)
+- [ ] Source and licence of the facility data (also goes in section 9 of the policy)
 - [ ] Public web address where the policy will be hosted
+- [ ] Emergency numbers: the policy deliberately gives none. Sources disagree and coverage varies by region, so confirm official numbers with the authorities and make the app's emergency screen match. Do not use a personal phone number there.
 
 *This brief is for discussion with a lawyer. It is not legal advice.*
